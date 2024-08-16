@@ -1,0 +1,4 @@
+Número total de palavras: 2
+Número total de linhas: 1
+Número médio de palavras por linha: 2
+Palavra mais frequente: codigo

@@ -1,0 +1,16 @@
+Erro ao abrir o arquivo: inputs/entrada1.txt
+Erro ao abrir o arquivo: inputs/entrada2.txt
+Erro ao abrir o arquivo: inputs/entrada3.txt
+Erro ao abrir o arquivo: inputs/entrada4.txt
+Erro ao abrir o arquivo: inputs/entrada1.txt
+Erro ao abrir o arquivo: inputs/entrada2.txt
+Erro ao abrir o arquivo: inputs/entrada3.txt
+Erro ao abrir o arquivo: inputs/entrada4.txt
+Erro ao abrir o arquivo: inputs/entrada1.txt
+Erro ao abrir o arquivo: inputs/entrada2.txt
+Erro ao abrir o arquivo: inputs/entrada3.txt
+Erro ao abrir o arquivo: inputs/entrada4.txt
+Erro ao abrir o arquivo: inputs/entrada1.txt
+Erro ao abrir o arquivo: inputs/entrada2.txt
+Erro ao abrir o arquivo: inputs/entrada3.txt
+Erro ao abrir o arquivo: inputs/entrada4.txt

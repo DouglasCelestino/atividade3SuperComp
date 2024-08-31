@@ -1,0 +1,4 @@
+Arquivo: ../inputs/entrada1.txt - O valor máximo que pode ser carregado é: 266
+Arquivo: ../inputs/entrada2.txt - O valor máximo que pode ser carregado é: 156
+Arquivo: ../inputs/entrada3.txt - O valor máximo que pode ser carregado é: 236
+Arquivo: ../inputs/entrada4.txt - O valor máximo que pode ser carregado é: 55
